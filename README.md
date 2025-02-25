@@ -7,7 +7,6 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
 
-Importance of Software Engineering 
 reliability -it ensures software performs as expected without bias, especially for critical applications like healthcare and finance. 
 efficiency - it helps to optimize developer workflow while maintaining high-quality standards. 
 scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
@@ -15,14 +14,12 @@ security - implement protection practice like authentication, authorization and 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+.mastering complexity
+Mastering process
+Mastering machine
 
-1. Micro Computers & Workstations- Computing became public with Micro Computers. People no longer had to queue their code at the lab with a mainframe and wait for weeks to see its results.
 
-2. Object-Oriented Programming- With complex systems in place, results were no longer limited to numerical values. There were many simultaneous processes in action and finite state machines with simple inputs and outputs weren’t enough. OOP introduced imperative and procedural programming with “objects”. These objects could have specific types, different classes and data fields could now be computed independently.
 
-3. Internet- Yes, everything changed after the internet. Communities and forums evolved, connecting people around the world. The world’s best minds got together in real-time to resolve issues. It became possible to monitor databases and store them in the cloud.
-
-4. Smart Devices and Cross-Platform Development Tools- A billion-dollar industry opened up when computers became mobile. A whole new field with its base in software engineering emerged. The global mobile application market size was valued at $106.27 billion in 2018 and projected to reach $407.31 billion by 2026, growing at a CAGR of 18.4% from 2019 to 2026 [1]  Many new platforms emerged and eventually tools that had cross-platform compatibility emerged. It became possible to run on multiple platforms.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -33,26 +30,16 @@ coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-The Waterfall model is a linear and sequential approach to software development, where each phase must be completed before moving to the next. It follows a structured process with clearly defined stages:
-1. Requirements: Defining the complete set of requirements for the software.
-2. Design: Creating the architectural and detailed design of the software.
-3. Implementation: Writing the code based on the design.
-4. Testing: Verifying the software against the requirements.
-5. Deployment: Releasing the software to users.
-6. Maintenance: Providing ongoing support and updates.
-Characteristics:
-Sequential: Phases are completed in a fixed order.
-Document-Driven: Emphasis on detailed documentation at each phase.
-Rigid: Changes are difficult and costly to implement once a phase is complete.
-Predictable: Well-suited for projects with stable requirements and low risk of change.
+waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+- there is Low flexibility,
+ changes are hard to incorporate once a phase is complete.
+ - Customer feedback comes late, after the product is developed.
+ - Testing is done at the end of the development process.
+agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+- High flexibility, adapts to changing requirements. 
+- Regular customer feedback is incorporated into every sprint. 
+- Testing is continuous and done after each iteration.
 
-Agile Model is an iterative and incremental approach to software development. It emphasizes flexibility, collaboration, and customer feedback. Agile projects are broken down into small, manageable iterations (sprints). 
-Characteristics:
-1. Iterative: Development occurs in short cycles (sprints).
-2. Incremental: Features are delivered in small, working increments.
-3. Collaborative: Close collaboration between developers, testers, and customers.
-4. Adaptive: Flexible and responsive to changing requirements.
-5. Customer-Focused: Frequent customer feedback and involvement.
 
 
 
@@ -76,8 +63,6 @@ Project Manager - assembles and lead the software development team.
 
 
 
-
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode). 
 importance:
@@ -87,7 +72,7 @@ an IDE can make suggestions to complete a code statement when the developer begi
 - IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
 - An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
 - The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
+- Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
