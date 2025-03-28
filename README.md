@@ -15,26 +15,17 @@ Well-structured software is easier to scale and update, ensuring long-term usabi
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1. The "Software Crisis" and the Rise of Structured Programming (1960s-1970s) - In the early days of computing, software development was often ad-hoc, leading to projects that were late, over budget, and unreliable. This period was known as the "software crisis."
-In response, structured programming emerged, emphasizing disciplined approaches to coding. This involved breaking down programs into smaller, manageable modules, using control structures, and focusing on readability and maintainability.
-This milestone marked a shift from "coding as art" to "coding as engineering," laying the foundation for more systematic software development.
-
-2. The Advent of Object-Oriented Programming (OOP) (1980s-1990s):
-Object-oriented programming revolutionized software design by introducing the concept of "objects," which combine data and behavior.
-OOP principles like encapsulation, inheritance, and polymorphism enabled developers to create more complex and reusable code.
-Languages like C++ and Java gained popularity, fostering a new era of software development focused on modularity and scalability.
-
-3. The Internet Age and Agile Development (1990s-2000s):
-The rise of the internet transformed software development, leading to the creation of web applications and distributed systems.
-Traditional waterfall development models proved inadequate for the rapid pace of internet development.
-Agile methodologies, such as Scrum and Kanban, emerged, emphasizing iterative development, collaboration, and responsiveness to change.
-This shift in methodology allowed software to be created in quicker more adaptable ways, that better fit the ever changing landscape of the internet. 
+1. 1950s - 1960s: Birth of Software Engineering
+During this period, the concept of software engineering emerged in response to the growing complexity of software systems. The term "software engineering" was first used at the NATO Science Committee in 1968, highlighting the need for a disciplined approach to software development.
+2. 1970s - 1980s: Structured Programming and Methodologies
+This era saw the rise of structured programming, which emphasized the use of well-organized code and control structures. Additionally, methodologies such as Waterfall and V-Model were introduced to provide systematic approaches to software development, laying the foundation for modern software engineering practices.
+3. 1990s - Present: Agile and DevOps
+The 1990s marked a shift towards more flexible and iterative development approaches, leading to the emergence of Agile methodologies such as Scrum and Extreme Programming. This period also witnessed the rise of DevOps, emphasizing collaboration between development and operations teams to streamline the software delivery process and enhance overall efficiency.
    
 
 List and briefly explain the phases of the Software Development Life Cycle.
 step 1: Planning/Requirements Gathering:
 This initial phase focuses on defining the project's scope, goals, and requirements. It involves gathering input from stakeholders to understand their needs and expectations. Key activities include feasibility studies, requirements analysis, and creating a project plan.
-
 step 2: Design:
 In this phase, the software's architecture and design are created. This involves outlining how the software will function, including user interfaces, databases, and system interactions. The outcome is a detailed design specification that serves as a blueprint for development.
 step 3: Implementation/Development:
