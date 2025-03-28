@@ -31,9 +31,6 @@ Agile methodologies, such as Scrum and Kanban, emerged, emphasizing iterative de
 This shift in methodology allowed software to be created in quicker more adaptable ways, that better fit the ever changing landscape of the internet. 
    
 
-
-
-
 List and briefly explain the phases of the Software Development Life Cycle.
 step 1: Planning/Requirements Gathering:
 This initial phase focuses on defining the project's scope, goals, and requirements. It involves gathering input from stakeholders to understand their needs and expectations. Key activities include feasibility studies, requirements analysis, and creating a project plan.
@@ -155,11 +152,10 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+rovide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
